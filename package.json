@@ -1,0 +1,31 @@
+{
+    "name": "EzDictionary",
+    "version": "1.0.0",
+    "description": "A simple whatsapp dictionary bot!",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/harry260/wa-dictionary.git"
+    },
+    "keywords": [
+        "dictionary",
+        "whatsapp",
+        "bot"
+    ],
+    "author": "Harry",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/harry260/wa-dictionary/issues"
+    },
+    "homepage": "https://github.com/harry260/wa-dictionary#readme",
+    "dependencies": {
+        "node-fetch": "^3.2.10",
+        "number-to-emoji": "^1.0.0",
+        "qrcode-terminal": "^0.12.0",
+        "whatsapp-web.js": "^1.17.1"
+    }
+}
