@@ -1,3 +1,2 @@
-2022/08/03-01:27:21.307 6f03 Reusing MANIFEST /Users/harrify/Documents/Code Stuff/dictionary/.wwebjs_auth/session/Default/Service Worker/Database/MANIFEST-000001
-2022/08/03-01:27:21.307 6f03 Recovering log #3
-2022/08/03-01:27:21.307 6f03 Reusing old log /Users/harrify/Documents/Code Stuff/dictionary/.wwebjs_auth/session/Default/Service Worker/Database/000003.log 
+2022/08/03-02:20:33.558 6b03 Creating DB /Users/harrify/Documents/Code Stuff/dictionary/.wwebjs_auth/session/Default/Service Worker/Database since it was missing.
+2022/08/03-02:20:33.565 6b03 Reusing MANIFEST /Users/harrify/Documents/Code Stuff/dictionary/.wwebjs_auth/session/Default/Service Worker/Database/MANIFEST-000001

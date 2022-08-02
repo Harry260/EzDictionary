@@ -1,12 +1,5 @@
-2022/08/03-01:27:21.865 ac03 Reusing MANIFEST /Users/harrify/Documents/Code Stuff/dictionary/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/03-01:27:21.865 ac03 Recovering log #15
-2022/08/03-01:27:21.892 ac03 Reusing old log /Users/harrify/Documents/Code Stuff/dictionary/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
-2022/08/03-01:31:00.860 9107 Level-0 table #20: started
-2022/08/03-01:31:00.881 9107 Level-0 table #20: 1317013 bytes OK
-2022/08/03-01:31:00.884 9107 Delete type=0 #15
-2022/08/03-01:31:01.297 10d0b Compacting 1@1 + 1@2 files
-2022/08/03-01:31:01.353 10d0b Generated table #21@1: 39102 keys, 1939447 bytes
-2022/08/03-01:31:01.353 10d0b Compacted 1@1 + 1@2 files => 1939447 bytes
-2022/08/03-01:31:01.356 10d0b compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/08/03-01:31:01.356 10d0b Delete type=2 #17
-2022/08/03-01:31:01.356 10d0b Delete type=2 #20
+2022/08/03-02:20:33.287 15003 Creating DB /Users/harrify/Documents/Code Stuff/dictionary/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/08/03-02:20:33.291 15003 Reusing MANIFEST /Users/harrify/Documents/Code Stuff/dictionary/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/03-02:20:49.969 7103 Level-0 table #5: started
+2022/08/03-02:20:49.990 7103 Level-0 table #5: 1105403 bytes OK
+2022/08/03-02:20:49.995 7103 Delete type=0 #3
